@@ -38,11 +38,11 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Mkiige's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ukaemma2&hide_border=true&theme=redical)
+![Uka's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ukaemma2&hide_border=true&theme=redical)
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Uka's github stats](https://github-readme-stats.vercel.app/api?username=Mkiige&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ukaemma2&theme=radical&layout=compact) |
+| ![Uka's github stats](https://github-readme-stats.vercel.app/api?username=ukaemma2&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ukaemma2&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ukaemma2"></img>
 
