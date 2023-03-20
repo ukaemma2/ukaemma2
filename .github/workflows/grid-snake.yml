@@ -50,5 +50,8 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
+          name: GITHUB_WORKSHOP
+          
+          value: $GITHUB_WORKSHOP
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PATH_TOKEN: ${{secret.PATH_TOKEN}}
+          PATH_TOKEN: ${{secrets.PATH_TOKEN}}
