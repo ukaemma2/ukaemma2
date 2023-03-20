@@ -9,7 +9,7 @@ on:
     - cron: "0 */6 * * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
-  workflow_dispatch:
+  workflow_dispatch: yes
 
 # The sequence of runs in this workflow:
 jobs:
@@ -51,3 +51,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PATH_TOKEN: ${{secret.PATH_TOKEN}}
