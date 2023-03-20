@@ -42,7 +42,7 @@
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Ukah's github stats](https://github-readme-stats.vercel.app/api?username=ukaemma2&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ukaemma2&theme=radical&layout=compact) |
+| ![Ukah's github stats](https://github-readme-stats.vercel.app/api?username=ukaemma2&show_icons=true&theme=radical) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ukaemma2&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ukaemma2"></img>
 
