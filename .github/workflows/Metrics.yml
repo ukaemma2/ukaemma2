@@ -13,7 +13,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Ukaemma2
-          config_timezone: West Africa/Nigeria
+          config_timezone: West Africa Standard Time (GMT+1)
 #          config_display: columns  # отображать информацию по колонкам
           committer_message: "chore: update metrics"
           template: classic
