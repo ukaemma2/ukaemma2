@@ -10,6 +10,8 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ukaemma2.ukaemma2" alt="visitors"/>   
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukaemma2)](https://github.com/ukaemma2/github-readme-stats)
+
 <!--   my-header-img -->
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
