@@ -53,7 +53,7 @@
 
 
 <!--   grid-snake -->
-![](https://github.com/ukaemma2/ukaemma2/blob/output/github-contribution-grid-snake.svg)
+![uka's github grid](https://github.com/ukaemma2/ukaemma2/blob/output/github-contribution-grid-snake.svg)
 
 <!--   skyline 
 <a href="https://skyline.github.com/Mkiige/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
