@@ -40,8 +40,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Uka's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ukaemma2&hide_border=true&theme=redical)
-
+[![Uka's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ukaemma2&theme=dracula)](https://github.com/ukaemma2/github-readme-activity-graph)
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Ukah's github stats](https://github-readme-stats.vercel.app/api?username=ukaemma2&show_icons=true&theme=radical) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ukaemma2&theme=radical&layout=compact) |
@@ -53,7 +52,7 @@
 
 
 <!--   grid-snake -->
-![uka's github grid](https://github.com/ukaemma2/ukaemma2/blob/output/github-contribution-grid-snake.svg)
+![Uka's github grid](https://github.com/ukaemma2/blob/output/github-contribution-grid-snake.svg)
 
 <!--   skyline 
 <a href="https://skyline.github.com/Mkiige/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
