@@ -52,7 +52,7 @@
 
 
 <!--   grid-snake -->
-![Uka's github grid](https://github.com/ukaemma2/ukaemma2/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Uka's github grid](https://github.com/ukaemma2/ukaemma2/blob/output/github-contribution-grid-snake.svg) -->
 
 
 <!--   skyline 
