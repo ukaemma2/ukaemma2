@@ -10,7 +10,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ukaemma2.ukaemma2" alt="visitors"/>   
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukaemma2)](https://github.com/ukaemma2/github-readme-stats)
+
 
 <!--   my-header-img -->
 ![](./src/header_.png)
@@ -47,6 +47,8 @@
 | ![Ukah's github stats](https://github-readme-stats.vercel.app/api?username=ukaemma2&show_icons=true&theme=radical) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ukaemma2&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ukaemma2"></img>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukaemma2)](https://github.com/ukaemma2/github-readme-stats)
 
 
 
