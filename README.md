@@ -21,7 +21,7 @@
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://twitter.com/@OgbonnaUkah" target="blank"><img align="center" src="https://raw.githubusercontent.com/ukaemma2/ukaemma2/master/assets/twitter.svg" alt="Mkiige" height="30" width="30" /></a>
+<a href="https://twitter.com//Emmy_Dev_Master" target="blank"><img align="center" src="https://raw.githubusercontent.com/ukaemma2/ukaemma2/master/assets/twitter.svg" alt="Mkiige" height="30" width="30" /></a>
 <a href="www.linkedin.com/in/emmanuel-ukah-6a3681139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ukaemma2/ukaemma2/master/assets/linkedin.svg" alt="Mkiige" height="30" width="30" /></a>
 <a href="mailto:ukaemmanuel2000@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/ukaemma2/ukaemma2/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=+2547036313262" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
